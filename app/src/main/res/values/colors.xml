@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <color name="signal_primary">#ff2090ea</color>
     <color name="white">@color/core_white</color>
     <color name="black">@color/core_black</color>
 

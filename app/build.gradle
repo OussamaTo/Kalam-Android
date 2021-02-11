@@ -96,6 +96,7 @@ android {
     }
 
     defaultConfig {
+        applicationId "net.dialy.provider.kalam"
         versionCode canonicalVersionCode * postFixSize
         versionName canonicalVersionName
 
